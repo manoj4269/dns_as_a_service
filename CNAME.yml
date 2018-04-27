@@ -1,0 +1,11 @@
+CNAME:
+    db.east.vpc1.com.: 192.168.2.38
+    db.east.vpc1.com.: 192.168.2.122
+    s2.east.vpc1.com.: 192.168.2.112
+    s3.east.vpc1.com.: 192.168.2.125
+CNAME1:
+    38: db.east.vpc1.com.
+    122: db.east.vpc1.com.
+    112: s2.east.vpc1.com.
+    125: s3.east.vpc1.com.
+
